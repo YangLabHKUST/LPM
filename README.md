@@ -21,7 +21,7 @@ Windows users need to download [local323](http://www.stats.ox.ac.uk/pub/Rtools/g
 Usage
 ===========
 
-[The 'LPM' vignette](https://github.com/mingjingsi/LPM/blob/master/inst/doc/LPM_package.pdf?raw=true) will provide a good start point for the genetic analysis using LPM package. The following help page will also provide quick references for LPM package and the example command lines:
+[The 'LPM' vignette](https://github.com/YangLabHKUST/LPM/blob/master/inst/doc/LPM_package.pdf?raw=true) will provide a good start point for the genetic analysis using LPM package. The following help page will also provide quick references for LPM package and the example command lines:
 
 ```
 library(LPM)
@@ -33,13 +33,13 @@ References
 
 Jingsi Ming, Tao Wang, Can Yang, LPM: a latent probit model to characterize the relationship among complex traits using summary statistics from multiple GWASs and functional annotations, Bioinformatics, , btz947, https://doi.org/10.1093/bioinformatics/btz947
 
-[Supplementary Document](https://github.com/mingjingsi/LPM/blob/master/suppl_doc/LPM%20-%20Supplement.pdf?raw=true)
+[Supplementary Document](https://github.com/YangLabHKUST/LPM/blob/master/suppl_doc/LPM%20-%20Supplement.pdf?raw=true)
 
 
 Reproducibility
 ==========
 
-All the simulation results can be reproduced by using the code at [sim-LPM](https://github.com/mingjingsi/sim-LPM). Real data sets used in the paper have been made publicly available, including functional annotations ([link](https://drive.google.com/file/d/1Jn_MEDJVZR16UB3lXFjNjAuQDCKECfUw/view)) and summary statistics from GWAS ([link](https://drive.google.com/file/d/1vXZX1l5IWXEx9De0psprR5GCniI3VG0l/view)).
+All the simulation results can be reproduced by using the code at [LPM-sim](https://github.com/YangLabHKUST/LPM-sim). Real data sets used in the paper have been made publicly available, including functional annotations ([link](https://drive.google.com/file/d/1Jn_MEDJVZR16UB3lXFjNjAuQDCKECfUw/view)) and summary statistics from GWAS ([link](https://drive.google.com/file/d/1vXZX1l5IWXEx9De0psprR5GCniI3VG0l/view)).
 
 
 Development
